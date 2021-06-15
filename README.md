@@ -3,7 +3,7 @@
   <br><br>
   <samp>
     Hello guys <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px">, I'm Mathieu an AI enthusiast, mainly a Data Scientist who is interested in Software Engineering stuff like IoT and everything ditributed.
-    I have a background in Econometrics, Finance and Data Science, and I have a strong interest in Music 🎼 and Psychology <img src="https://im.ezgif.com/tmp/ezgif-1-402b158d6789.gif" width="2%">.
+    I have a background in Econometrics, Finance and Data Science, and I have a strong interest in Music 🎼 and Psychology <img src="https://media.giphy.com/media/1hQZvWM3kKnAy30vCa/giphy.gif" width="2%">.
   </samp>
 </p>
 
